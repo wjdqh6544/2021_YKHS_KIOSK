@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31605.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "2021_YKHS_KIOSK", "2021_YKHS_KIOSK.pyproj", "{214E75B6-3185-4B94-AD0F-C4B5B5CB9877}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "2021_YKHS_KIOSK", "2021_YKHS_KIOSK.pyproj", "{65174BC2-42C3-4E78-8F42-A81FCD971802}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,13 +11,13 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{214E75B6-3185-4B94-AD0F-C4B5B5CB9877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{214E75B6-3185-4B94-AD0F-C4B5B5CB9877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65174BC2-42C3-4E78-8F42-A81FCD971802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65174BC2-42C3-4E78-8F42-A81FCD971802}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {76D498C1-A2CF-4AD4-A18E-C09B4EF06BB2}
+		SolutionGuid = {0FAFB417-7F90-4E9B-B6DD-3673B1A0F070}
 	EndGlobalSection
 EndGlobal
